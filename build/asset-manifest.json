@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adff7c91.css",
+    "main.js": "/static/js/main.80fdc81f.js",
+    "static/media/UxDesign.gif": "/static/media/UxDesign.0d10e0bfd5147e427dbe.gif",
+    "static/media/adventure-game.gif": "/static/media/adventure-game.3039bb254cdcf83d7c55.gif",
+    "static/media/maths.gif": "/static/media/maths.edf6c1120c334e9e1feb.gif",
+    "static/media/WebAppliaction.gif": "/static/media/WebAppliaction.d971fd80f370f10007b8.gif",
+    "static/media/under-construction.gif": "/static/media/under-construction.e05c0f59f995a4d796e1.gif",
+    "static/media/AI.gif": "/static/media/AI.c9441098a16befb89dbd.gif",
+    "static/media/Pic.png": "/static/media/Pic.c3af2fc9eb057d257981.png",
+    "static/media/logo.png": "/static/media/logo.d041dc96e9d6d1106993.png",
+    "static/media/linkedin.png": "/static/media/linkedin.2ede7d12fd86fca69eb1.png",
+    "static/media/github.png": "/static/media/github.6c202c10d4b3055267bf.png",
+    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/index.html",
+    "main.adff7c91.css.map": "/static/css/main.adff7c91.css.map",
+    "main.80fdc81f.js.map": "/static/js/main.80fdc81f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adff7c91.css",
+    "static/js/main.80fdc81f.js"
+  ]
+}
